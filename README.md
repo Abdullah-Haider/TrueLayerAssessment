@@ -1,10 +1,10 @@
 # TrueLayer Assessment
 
-Please find below the instructions to run this application. Please also insure that you have put all files in this repository in a folder.
+Please find below the instructions to run this application. Please also ensure that you have put all files in this repository in a folder.
 
 ## Installation
 
-Please insure before beginning that you have [Docker](https://www.docker.com/products/docker-desktop) installed on your PC/Mac. Insure that it is running
+Please ensure before beginning that you have [Docker](https://www.docker.com/products/docker-desktop) installed on your PC/Mac. Insure that it is running
 
 ## Running
 
