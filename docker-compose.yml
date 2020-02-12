@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  truelayerassessment:
+    image: ${DOCKER_REGISTRY-}truelayerassessment
+    build:
+      context: .
+      dockerfile: TrueLayerAssessment/Dockerfile
