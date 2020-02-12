@@ -1,6 +1,6 @@
 # TrueLayer Assessment
 
-Please find below the instructions to run this application. 
+Please find below the instructions to run this application. Please also ensure that you have put all files in this repository in a folder.
 
 ## Installation
 
